@@ -1,0 +1,16 @@
+{
+    "name": "Eddie Nazario",
+    "img": "https://avatars.githubusercontent.com/u/68973883?v=4",
+    "email": "eiddenazario@gmail.com",
+    "links": {
+        "website": "https://nazariodev.com",
+        "linkedin": "https://www.linkedin.com/in/eddie-nazario-20b2a320a",
+        "github": "https://github.com/eidde606"
+    },
+    "jobTitle": "FrontEnd React Developer",
+    "location": {
+        "city": "Hopewell",
+        "state": "Virginia",
+        "country": "USA"
+    }
+}
